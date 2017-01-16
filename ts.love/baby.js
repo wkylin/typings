@@ -5,3 +5,4 @@ var Baby = (function () {
     return Baby;
 }());
 var baby = new Baby();
+//# sourceMappingURL=baby.js.map
